@@ -6,7 +6,7 @@ description: Use when implementing any feature or bug fix — write the failing 
 # TDD Workflow
 
 ## The Law
-**No production code exists without a failing test that demanded it. Write code before the test? Delete it and start over.**
+**No production code exists without a failing test that demanded it. If you wrote the implementation first, it does not count — remove it and begin from a red test.**
 
 ## When to Use
 - Any new function, class, or module

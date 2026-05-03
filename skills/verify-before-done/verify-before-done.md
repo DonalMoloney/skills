@@ -47,14 +47,26 @@ description: Use before marking work complete — verify the task works as speci
 ### Phase 5: Verify Automation
 1. Do all tests pass?
    ```bash
+   # Python
+   pytest
+
+   # TypeScript
    npm test
    ```
 2. Do type checks pass?
    ```bash
+   # Python
+   mypy --strict .
+
+   # TypeScript
    npx tsc --noEmit
    ```
 3. Does linting pass?
    ```bash
+   # Python
+   ruff check .
+
+   # TypeScript
    npm run lint
    ```
 

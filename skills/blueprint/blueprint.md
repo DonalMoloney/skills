@@ -6,7 +6,7 @@ description: Use when you have an approved spec and need a step-by-step implemen
 # Blueprint
 
 ## The Law
-**Every step in the plan must contain the actual content an engineer needs to act — exact file paths, real code, runnable commands, and expected output. A step that says "implement X" without showing how is not a step; it is a gap.**
+**Ship the plan or skip the plan — there is no middle ground. If a step cannot be followed without guessing, it is a hole, not a step. Name the file. Show the code. Give the command. State the expected output.**
 
 ## When to Use
 - An approved spec or requirements document exists
