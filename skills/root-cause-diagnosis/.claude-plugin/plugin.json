@@ -1,0 +1,8 @@
+{
+  "name": "traceroot",
+  "description": "From symptom to source in one session — stack-aware diagnostics with ranked hypotheses",
+  "version": "1.0.0",
+  "author": {
+    "name": "PluginIdeas"
+  }
+}

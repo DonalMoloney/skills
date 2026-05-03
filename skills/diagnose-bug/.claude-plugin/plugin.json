@@ -1,0 +1,8 @@
+{
+  "name": "sleuth",
+  "description": "Find the root, not just the symptom — root cause chains with typed bug classification and fix output",
+  "version": "1.0.0",
+  "author": {
+    "name": "PluginIdeas"
+  }
+}

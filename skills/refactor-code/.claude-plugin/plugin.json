@@ -1,0 +1,8 @@
+{
+  "name": "reshape",
+  "description": "Code that reads clean on the first pass — smell-aware refactoring with before/after scoring",
+  "version": "1.0.0",
+  "author": {
+    "name": "PluginIdeas"
+  }
+}
